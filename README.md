@@ -364,6 +364,7 @@ _Related curated lists of robotics and AI resources._
 * [Awesome Gazebo](https://github.com/fkromer/awesome-gazebo)
 * [Awesome Grasping](https://github.com/Po-Jen/awesome-grasping)
 * [Awesome Human Robot Interaction](https://github.com/Po-Jen/awesome-human-robot-interaction)
+* [Awesome Physical AI](https://github.com/keon/awesome-physical-ai)
 * [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes for robotics algorithms.
 * [Robotics Coursework](https://github.com/mithi/robotics-coursework) - A list of robotics courses you can take online.
 
